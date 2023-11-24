@@ -140,11 +140,11 @@ export function Hero() {
               className="mx-auto mt-8 flex max-w-xl flex-wrap justify-center gap-x-10 gap-y-8 lg:mx-0 lg:justify-start"
             >
               {[
-                ['Forbes', logoForbes],
-                ['TechCrunch', logoTechcrunch],
-                ['Wired', logoWired],
-                ['CNN', logoCnn, 'hidden xl:block'],
-                ['BBC', logoBbc],
+                ['Damus', logoForbes],
+                ['Primal', logoTechcrunch],
+                ['Coracle', logoWired],
+                ['Nostrudel', logoCnn, 'hidden xl:block'],
+                ['Amtheyst', logoBbc],
                 ['CBS', logoCbs],
                 ['Fast Company', logoFastCompany],
                 ['HuffPost', logoHuffpost, 'hidden xl:block'],
